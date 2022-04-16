@@ -1,0 +1,591 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    outline: none;
+    box-sizing: border-box;
+}
+img{
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+
+/*defalt css end*/
+
+.a1{
+    width: 1000px;
+    height: 1000px;
+    background: #e6641e;
+    margin: auto;
+}
+
+.a2{
+    width: 1000px;
+    height: 500px;
+    background: #e6641e;
+}
+.a4{
+    width: 125px;
+    height: 500px;
+    background: #e6641e;
+    float: left;
+}
+.a20{
+    width: 125px;
+    height: 125px;
+    background: #1acf6a;
+    float: left;
+}
+.a21{
+    width: 125px;
+    height: 125px;
+    background: #e8d93f;
+    float: left;
+}
+.a22{
+    width: 125px;
+    height: 125px;
+    background: #a29d2e;
+    float: left;
+}
+.a23{
+    width: 125px;
+    height: 125px;
+    background: #a7e1c5;
+    float: left;
+}
+
+
+.a5{
+    width: 125px;
+    height: 500px;
+    background: #438f5a;
+    float: left;
+}
+.a23{
+    width: 125px;
+    height: 125px;
+    background: #bb4766;
+    float: left;
+}
+.a24{
+    width: 125px;
+    height: 125px;
+    background: #26c9d5;
+    float: left;
+}
+.a25{
+    width: 125px;
+    height: 125px;
+    background: #bc71f6;
+    float: left;
+}
+.a26{
+    width: 125px;
+    height: 125px;
+    background: #9d8f3d;
+    float: left;
+}
+
+
+
+.a6{
+    width: 125px;
+    height: 500px;
+    background: #8b5232;
+    float: left;
+}
+.a27{
+    width: 125px;
+    height: 125px;
+    background: #733322;
+
+}
+
+.a28{
+    width: 125px;
+    height: 125px;
+    background: #edca28;
+
+}
+.a29{
+    width: 125px;
+    height: 125px;
+    background: #723da9;
+
+}
+.a30{
+       
+    width: 125px;
+    height: 125px;
+    background: #f511a1;
+
+}
+
+.a7{
+    width: 125px;
+    height: 500px;
+    background: #8c727a;
+    float: left;
+}
+.a31{
+    width: 125px;
+    height: 125px;
+    background: #668dbe;
+}
+.a32{
+    width: 125px;
+    height: 125px;
+    background: #d1d036;
+}
+.a33{
+    width: 125px;
+    height: 125px;
+    background: #38661d;
+}
+.a34{
+    width: 125px;
+    height: 125px;
+    background: #fb857d;
+}
+
+.a8{
+    width: 125px;
+    height: 500px;
+    background: #59f66f;
+    float: left;
+}
+.a35{
+    width: 125px;
+    height: 125px;
+    background: #a31694;
+}
+.a36{
+    width: 125px;
+    height: 125px;
+    background: #664f6a;
+}
+.a37{
+    width: 125px;
+    height: 125px;
+    background: #d4351a;
+}
+.a38{
+    width: 125px;
+    height: 125px;
+    background: #961370;
+}
+
+.a9{
+    width: 125px;
+    height: 500px;
+    background: #5d169a;
+    float: left;
+}
+.a39{
+    width: 125px;
+    height: 125px;
+    background: #23354a;
+}
+.a40{
+    width: 125px;
+    height: 125px;
+    background: #1c23b8;
+}
+.a41{
+    width: 125px;
+    height: 125px;
+    background: #293c7a;
+}
+.a42{
+    width: 125px;
+    height: 125px;
+    background: #b76725;
+}
+
+.a10{
+    width: 125px;
+    height: 500px;
+    background: #c6e58a;
+    float: left;
+}
+.a43{
+    width: 125px;
+    height: 125px;
+    background: #5246e4;
+}
+.a44{
+    width: 125px;
+    height: 125px;
+    background: #badaeb;
+}
+.a45{
+    width: 125px;
+    height: 125px;
+    background: #9eb675;
+}
+.a46{
+    width: 125px;
+    height: 125px;
+    background: #40a9b1;
+}
+
+.a11{
+    width: 125px;
+    height: 500px;
+    background: #219e4a;
+    float: left;
+}
+.a47{
+    width: 125px;
+    height: 125px;
+    background: #7cf1c5;
+}
+.a48{
+    width: 125px;
+    height: 125px;
+    background: #261763;
+}
+.a49{
+    width: 125px;
+    height: 125px;
+    background: #6d548d;
+}
+.a50{
+    width: 125px;
+    height: 125px;
+    background: #90f989;
+}
+
+
+
+
+.a3{
+    width: 1000px;
+    height: 500px;
+    background: #5a96d5;
+}
+.a12{
+    width: 125px;
+    height: 500px;
+    background: #826c82;
+    float: left;
+}
+.a52{
+    width: 125px;
+    height: 125px;
+    background: #7e978e;
+}
+.a53{
+    width: 125px;
+    height: 125px;
+    background: #87ea34;
+}
+.a54{
+    width: 125px;
+    height: 125px;
+    background: #3d5c39;
+}
+.a55{
+    width: 125px;
+    height: 125px;
+    background: #b42c7d;
+}
+
+.a13{
+    width: 125px;
+    height: 500px;
+    background: #e74a61;
+    float: left;
+}
+.a56{
+    width: 125px;
+    height: 125px;
+    background: #90f989;
+}
+.a57{
+    width: 125px;
+    height: 125px;
+    background: #f02805;
+}
+.a58{
+    width: 125px;
+    height: 125px;
+    background: #d59eb9;
+}
+.a59{
+    width: 125px;
+    height: 125px;
+    background: #90f989;
+}
+
+.a14{    
+    width: 125px;
+    height: 500px;
+    background: #826c82;
+    float: left;
+}
+.a60{
+    width: 125px;
+    height: 125px;
+    background: #5e21e1;
+}
+.a61{
+    width: 125px;
+    height: 125px;
+    background: #3b2d17;
+}
+.a62{
+    width: 125px;
+    height: 125px;
+    background: #41afdd;
+}
+.a63{
+    width: 125px;
+    height: 125px;
+    background: #f4c357;
+}
+
+.a15{
+    width: 125px;
+    height: 500px;
+    background: #36b2f8;
+    float: left;
+}
+.a64{
+    width: 125px;
+    height: 125px;
+    background: #90f989;
+}
+.a65{
+    width: 125px;
+    height: 125px;
+    background: #12c18d;
+}
+.a66{
+    width: 125px;
+    height: 125px;
+    background: #9ed8bc;
+}
+.a67{
+    width: 125px;
+    height: 125px;
+    background: #cbbcec;
+}
+
+.a16{
+    width: 125px;
+    height: 500px;
+    background: #a12beb;
+    float: left;
+}
+.a68{
+    width: 125px;
+    height: 125px;
+    background: #871029;
+}
+.a69{
+    width: 125px;
+    height: 125px;
+    background: #953f95;
+}
+.a70{
+    width: 125px;
+    height: 125px;
+    background: #633650;
+}
+.a71{
+    width: 125px;
+    height: 125px;
+    background: #fe50ed;
+}
+
+.a17{
+    width: 125px;
+    height: 500px;
+    background:#85e0d9;
+    float: left;
+}
+.a72{
+    width: 125px;
+    height: 125px;
+    background: #b39beb;
+}
+.a73{
+    width: 125px;
+    height: 125px;
+    background: #23b4ed;
+}
+.a74{
+    width: 125px;
+    height: 125px;
+    background: #353006;
+}
+.a75{
+    width: 125px;
+    height: 125px;
+    background: #aea134;
+}
+
+.a18{
+    width: 125px;
+    height: 500px;
+    background: #3c20e2;
+    float: left;
+}
+.a76{
+    width: 125px;
+    height: 125px;
+    background: #fd6ed7;
+}
+.a77{
+    width: 125px;
+    height: 125px;
+    background: #6b1633;
+}
+.a78{
+    width: 125px;
+    height: 125px;
+    background: #90f989;
+}
+.a79{
+    width: 125px;
+    height: 125px;
+    background:#7511a1;
+}
+
+.a19{
+    width: 125px;
+    height: 500px;
+    background: #6574ab;
+    float: left;
+}
+.a80{
+    width: 125px;
+    height: 125px;
+    background: #b6b4ab;
+}
+.a81{
+    width: 125px;
+    height: 125px;
+    background: #de2e8e;
+}
+.a82{
+    width: 125px;
+    height: 125px;
+    background: #999833;
+}
+.a83{
+    width: 125px;
+    height: 125px;
+    background: #b5357c;
+}
+
+
+
+
+.laout{
+
+    width: 100%;
+    height: auto;
+}
+.laout h3{
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.main{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+.manu{
+    width: 1000px;
+    height: 50px;
+    background: #0cf199;
+    margin: auto;
+}
+.banar{
+    width: 1000px;
+    height: 400px;
+    background: #b5357c;
+    margin: auto;
+}
+.side_banar{
+    width: 200px;
+    height: 500px;
+    background: #f02805;
+    float: left;
+}
+.div1{
+    width: 200px;
+    height: 200px;
+    background: #90f989;
+    float: left;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background: #3b2d17;
+    float: left;
+
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    background: #f4c357;
+    float: left;
+}
+.div4{
+    width: 200px;
+    height: 200px;
+    background: #cbbcec;
+    float: left;
+}
+.div5{
+    width: 200px;
+    height: 200px;
+    background: #048f71;
+    float: left;
+}
+.div6{
+    width: 200px;
+    height: 200px;
+    background: #12c18d;
+    float: left;
+}
+.div7{
+    width: 200px;
+    height: 200px;
+    background: #253832;
+    float: left;
+}
+.div8{
+    width: 200px;
+    height: 200px;
+    background: #44a318;
+    float: left;
+}
+.div9{
+    width: 800px;
+    height: 100px;
+    background: #aec009;
+    float: left;
+
+}
+.subscription{
+    width: 1000px;
+    height: 300px;
+    background: #7e978e;
+    float: left;
+}
